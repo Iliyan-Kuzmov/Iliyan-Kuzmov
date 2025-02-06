@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python Web Developer
 --------------------
 
-I've been learning to code for 2 years. I have knowledge in Python, C++, Java, JavaScript, HTML, CSS, SQL, PostgreSQL.
+I've been learning to code for 5 years. I have knowledge in Python, C++, Java, JavaScript, HTML, CSS, SQL, PostgreSQL.
 
 *   🌍  I'm based in Sofia, Bulgaria
 *   ✉️  You can contact me at [kuzmov.ilian@gmail.com](mailto:kuzmov.ilian@gmail.com)
